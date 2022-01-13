@@ -7,11 +7,15 @@
 <li>Clone the project from Bitbucket https://tools.standardbank.co.za/bitbucket/projects/AOSB/repos/core-error-lib/browse</li>
 <li>Add the library project to your project:
 	<ul>
-		<li>Right click your project and select Add > Project Reference </li>
+		<li>Right click your project and select Add then  Project Reference </li>
 	<ul>
 </li>
 </ol>
 
+<h2>Import Nuget</h2>
+<p>For development purposes you may add a Project Source in the Nuget Package Manager and set the source field to 
+\\35784ANGCPC01V\nugets
+</p>
 <h2>Usage</h2>
 
 <h3>Startup</h3>
