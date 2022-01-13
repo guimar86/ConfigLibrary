@@ -1,0 +1,21 @@
+{
+
+  "Error": [
+
+    {
+      "id": "DUPLICATE.FT",
+      "locale": {
+        "pt": "Duplicate Transfer",
+        "en": "Transferência Duplicada"
+      }
+    },
+
+    {
+      "id": "Balance",
+      "locale": {
+        "pt": "Insuficient Balance",
+        "en": "Saldo insuficiente"
+      }
+    }
+  ]
+}
